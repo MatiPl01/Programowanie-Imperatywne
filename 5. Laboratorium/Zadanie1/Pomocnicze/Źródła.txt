@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/
+
+Good explanation of method #1:
+https://www.youtube.com/watch?v=PrNAjqoo83k
+
+Another method (#2) (easier) (histogram max rectangle field explanation):
+https://www.youtube.com/watch?v=lsQTYlCiU6c
